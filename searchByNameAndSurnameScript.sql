@@ -1,0 +1,1 @@
+SELECT name, surname FROM schema_users.persons WHERE city_of_living='Москва';
